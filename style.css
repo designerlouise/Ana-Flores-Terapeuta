@@ -5,12 +5,15 @@
 }
 
 body {
+  margin: 0;
+  padding: 0;
   font-family: 'Montserrat', sans-serif;
-  color: #4B0071;
-  position: relative;
-  min-height: 100vh;
+  background-image: url('background.jpg'); /* Substitua pelo nome da sua imagem */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  color: #4b0071;
   text-align: center;
-  overflow-x: hidden;
 }
 
 .background {
