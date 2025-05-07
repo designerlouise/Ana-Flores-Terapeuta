@@ -104,3 +104,9 @@ footer .assinatura {
   color: #4b0071;
   margin-top: 1rem;
 }
+.assinatura-img {
+  width: 30px; /* ou o valor que quiser, tipo 60px, 100px etc */
+  height: auto;
+  display: block;
+  margin: 1rem auto 0;
+}
